@@ -1,0 +1,19 @@
+{
+  "name": "mroa-calculator",
+  "version": "1.1.1",
+  "description": "made by aliraza",
+  "main": "index.js",
+  "type": "module",
+  "Bin": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16npm"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
